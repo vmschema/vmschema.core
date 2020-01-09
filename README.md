@@ -1,0 +1,1 @@
+# vmschema.core
